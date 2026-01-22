@@ -1,7 +1,10 @@
 # OIBSIP_Network_Security_Threats_Report
-### Oasis Infobyte Internship - Task 4 Completed ✅
-This repository contains a research-based report on common network security threats, created as part of my Security Analyst Internship. 
-The report focuses on understanding how major network attacks work, their real world impact, and how defenders can detect and mitigate them.
+
+## Introduction 
+
+Modern organizations rely heavily on computer networks to deliver services, store sensitive data, and support daily operations. As networks grow in size and complexity, they become attractive targets for cyber attackers. Network security threats can disrupt services, steal data, or allow unauthorized access to systems. 
+
+This report explains three common network security threats, such as Denial of Service (DoS/DDoS) attacks, Man-in-the-Middle (MITM) attacks, and Spoofing attacks. Each threat is discussed from a defender’s perspective, focusing on how the attack works, its impact, real-world examples, and effective detection and mitigation techniques. 
 
 ## 1. DoS / DDoS Attacks
 
