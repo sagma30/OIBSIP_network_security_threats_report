@@ -1,7 +1,6 @@
 # Research Report on Common Network Security Threats
-### Oasis Infobyte Internship - Task 4 Completed ✅
 
-This repository contains a research-based study on common network security threats, completed as part of my Security Analyst Internship at Oasis Infobyte.
+This repository contains a research-based study on common network security threats.
 The goal of this task was to understand how major network attacks work, their real-world impact, and how defenders and SOC teams detect and mitigate them.
 
 ## Network Security Threats Covered
